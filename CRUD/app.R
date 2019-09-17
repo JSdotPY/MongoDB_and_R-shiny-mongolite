@@ -86,9 +86,9 @@ server <- function(input, output) {
     
     #MongoDB
     options(mongodb = list(
-        "username" = "Julian",
-        "password" = "Julian1994",
-        "url" = "mongodb+srv://Julian:Julian1994@cluster0-hfwvj.mongodb.net/test?retryWrites=true&w=majority"
+        "username" = "Username",
+        "password" = "Password",
+        "url" = "ConnectionString"
     ))
 
     #mongolite - macht aus jeder Zeile des Dataframes ein Dokument
