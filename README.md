@@ -10,7 +10,7 @@ This is why I have prepared a Slide-Deck demonstrating why R and Pyhton
 https://docs.google.com/presentation/d/1U3lUGKrWZmYSVW6bm1IrJPHDFwkYc0hCxDUzdfETFSg/edit?usp=sharing
 
 # The Demo / The Shiny Application
-The Demo consists of two parts:
+The Demo can be found in the app.R file and it consists of two parts:
 - A simply CRUD application
 - A ML Showcase, making use of the strong visualization capabilities of R directly in Shiny
 
