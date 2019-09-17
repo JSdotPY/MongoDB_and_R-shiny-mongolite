@@ -6,6 +6,8 @@ This is why I have prepared a Slide-Deck demonstrating why R and Pyhton
   - Showcase some of the strenghts of R
   - Show how R can leverage MongoDB to overcome some of the barrieres when it comes to working with unstructured and semistructured data
 
+Furthermore, I brought MongoDB into play to show how it makes R even more powerful by allowing me as a DataScientist to work with data in the best and most intuitive way possible. Storing all data that belongs together in the same place and providing me with strong aggregation and transformation capabilities to prepare and preprocess my datasets.
+
 # The Slide-Deck
 https://docs.google.com/presentation/d/1U3lUGKrWZmYSVW6bm1IrJPHDFwkYc0hCxDUzdfETFSg/edit?usp=sharing
 
