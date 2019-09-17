@@ -28,6 +28,10 @@ The Model Build is a Regression Tree, that predicts the monthly rent price given
 It then creates the cartesian product of the two to make a 3D-Visualization of all the possible combinations for the input variables given the input sliders in the UI and plots them using a 3D-Scatter Plot library into the Shiny UI.
 
 ### Installation
+- Go to http://atlas.mongodb.com and create a free Account.
+- Create a Cluster (M0 is free)
+- Klick on the three dots next to the connect button on your cluster and choose load sample dataset
+Once you have done that and the cluster has finished the initialization / update:
 Please Adjust the connection-string to MongoDB Atlas and ensure to have loaded the sample datasets
 ```sh
     #MongoDB
@@ -37,6 +41,7 @@ Please Adjust the connection-string to MongoDB Atlas and ensure to have loaded t
         "url" = "Connection-String"
     ))
 ```
+Now you can launch the Shiny-Application from within R-Studio.
 
 ### Plugins
 
