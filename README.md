@@ -32,8 +32,8 @@ It then creates the cartesian product of the two to make a 3D-Visualization of a
 - Create a Cluster (M0 is free)
 - Klick on the three dots next to the connect button on your cluster and choose load sample dataset <br>
 
-Once you have done that and the cluster has finished the initialization / update:
-Please Adjust the connection-string to MongoDB Atlas and ensure to have loaded the sample datasets
+Once you have done that and the cluster has finished the initialization / update:<br>
+Please adjust the connection-string to MongoDB Atlas and ensure to have loaded the sample datasets
 ```sh
     #MongoDB
     options(mongodb = list(
