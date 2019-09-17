@@ -41,3 +41,7 @@ Please Adjust the connection-string to MongoDB Atlas and ensure to have loaded t
 | ------ | ------ |
 | Shiny | [https://shiny.rstudio.com/][PlDb] |
 | MongoLite | [https://jeroen.github.io/mongolite/][PlGh] |
+
+
+This is a manual comment:
+Markdown Created with: https://dillinger.io/
