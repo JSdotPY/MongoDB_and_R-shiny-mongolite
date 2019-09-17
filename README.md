@@ -15,9 +15,12 @@ The Demo consists of two parts:
 - A ML Showcase, making use of the strong visualization capabilities of R directly in Shiny
 
 The Crud Application:
+
 Uses datatables to display a subset of the sample movies data that can be loaded in the free tier of MongoDB Atlas. It is allows to write, update and delete entries in MongoDB directly via the UI
 
+
 The ML Application:
+
 This section is meant to demonstrate how easy it is to make models that use semistructured data directly from MongoDB to build models in R. Furthermore it showcases the similarity in logic that is used to write code in R-Tidyverse and MongoDB Aggregation-Framework.
 The Model Build is a Regression Tree, that predicts the monthly rent price given two input variables:
 - The score of the property
