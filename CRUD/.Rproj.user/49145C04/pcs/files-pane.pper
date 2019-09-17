@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/R/Shiny/CRUD_App/CRUD",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
